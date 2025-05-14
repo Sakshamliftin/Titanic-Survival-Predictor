@@ -39,7 +39,7 @@ The model achieves:
 
 ## 🚀 Try the App
 
-👉 [Live Demo on Streamlit Cloud](#) *(https://titanic-passenger-predictor.streamlit.app/)*
+👉 [Live Demo on Streamlit Cloud](https://titanic-passenger-predictor.streamlit.app/)
 
 ---
 
