@@ -3,6 +3,10 @@
 A machine learning web app that predicts whether a passenger would survive the Titanic disaster, based on user-input features like age, gender, class, and fare. Built using **Scikit-learn** and deployed with **Streamlit**.
 
 ---
+## Some demo Images
+![image](https://github.com/user-attachments/assets/2b663930-463e-428a-89bf-10d3599052fe)
+![image](https://github.com/user-attachments/assets/cc50016e-d548-4004-b3db-f6662becab4b)
+
 
 ## 📊 About the Project
 
