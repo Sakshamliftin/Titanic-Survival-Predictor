@@ -5,8 +5,9 @@ A machine learning web app that predicts whether a passenger would survive the T
 ---
 ## Some demo Images
 
-![image](https://github.com/user-attachments/assets/cc50016e-d548-4004-b3db-f6662becab4b)
-![image](https://github.com/user-attachments/assets/2b663930-463e-428a-89bf-10d3599052fe)
+![image](https://github.com/user-attachments/assets/13721ef4-bc2c-4415-b866-620c0a712914)
+![image](https://github.com/user-attachments/assets/689f28c3-c8f4-4f3d-ab95-c5fc4e71ffac)
+
 
 
 ## 📊 About the Project
